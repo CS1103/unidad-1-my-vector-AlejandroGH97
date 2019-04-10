@@ -12,7 +12,7 @@ struct Point2D {
 
 };
 
-struct Point3D {
+struct Point3D {  
     int x = 0;
     int y = 0;
     int z = 0;
